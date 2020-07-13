@@ -8,8 +8,8 @@ When using the program, it takes certain keywords that perform different functio
 
 | Command | Function Description                                                                                                           |
 |---------|--------------------------------------------------------------------------------------------------------------------------------|
-| NEXT    | Produces the next entity in the queue while also removing the name from it.                                                    |
-| CHECK   | Tells the program to screenshot the current waiting room and update the queue with any new names if it sees any.               |
+| NEXT    | Produces the next entity in the queue while also removing it from the queue.                                                    |
+| CHECK   | Tells the program to screenshot the current waiting room and update the queue with any new entities if it sees any.               |
 | EMPTY   | Empties the queue.                                                                                                             |
 | PRINT   | Prints all entities inside of the queue.                                                                                       |
 | QUIT    | Ends the program.                                                                                                              |
